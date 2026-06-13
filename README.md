@@ -24,5 +24,4 @@ BBC News Summary Dataset
 * ROUGE-L: 45.11%
 
 # Author
-
 Bedabrata Bharadwaj
